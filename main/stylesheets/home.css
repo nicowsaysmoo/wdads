@@ -1,0 +1,40 @@
+.background-image {
+  background-image: url('../images/background.jpg');
+  text-align: center;
+   min-width: 100%;
+   min-height: 100%;
+   background-size: cover;
+   height: 860px;
+   background-position: center center;
+   position: absolute;
+   opacity: 0.5;
+}
+
+.form-container {
+	position: relative;
+	top: 260px;
+	overflow: auto;
+}
+
+#hoverbutton {
+  text-align: -webkit-center;
+}
+
+.column {
+	float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+.image {
+	width: 35%;
+}
+
+.action-button-connect {
+	width: 49%;
+}
+
+.action-button-mint {
+	width: 49%;
+	float: right;
+}
